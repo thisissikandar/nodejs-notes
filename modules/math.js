@@ -2,7 +2,7 @@ function add (b){
     return 5 +b
 }
 function sub (b){
-    return 5 +b
+    return 5 -b
 }
 // This way cannot export becouse its overwrite the intial value
 // module.exports = add
